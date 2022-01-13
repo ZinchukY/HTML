@@ -1,0 +1,13 @@
+body{
+
+}
+.target {
+    background: #989797;
+    box-sizing: border-box;
+    box-shadow: rgb(248, 214, 180) -140px -140px 100px 100px;
+    border: 5px solid #989797;
+    min-height: 640px;
+    width: 1260px;
+    margin-left: 150px;
+    margin-top: 110px;
+}

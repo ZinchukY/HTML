@@ -1,0 +1,75 @@
+body{
+background: honeydew;
+margin-left: 50px;
+}
+.target{
+box-sizing: border-box;
+    background: orange;
+    border: 5px;
+    width: 100px;
+    min-height: 100px;
+    padding-left: 45px;
+    padding-top: 35px;
+    box-shadow: #4b4b4b 15px 15px 0px  0px;
+}
+.target1{
+    box-sizing: border-box;
+    background: orange;
+    border: 5px;
+    width: 100px;
+    min-height: 100px;
+    padding-left: 45px;
+    padding-top: 35px;
+    margin-left: 200px;
+    margin-top: -100px;
+    box-shadow: #4b4b4b 15px 15px 4px 0px;
+}
+.target2{
+    box-sizing: border-box;
+    background: orange;
+    border: 5px;
+    width: 100px;
+    min-height: 100px;
+    padding-left: 45px;
+    padding-top: 35px;
+    margin-left: 400px;
+    margin-top: -100px;
+    box-shadow: #4b4b4b 15px 15px 5px 3px;
+}
+.target3{
+    box-sizing: border-box;
+    background: orange;
+    border: 5px;
+    width: 100px;
+    min-height: 100px;
+    padding-left: 45px;
+    padding-top:  35px;
+    margin-top:  100px;
+    box-shadow: #989797 15px 15px 3px 1px;
+}
+.target4{
+    box-sizing: border-box;
+    background: orange;
+    border: 5px;
+    border-radius: 5px;
+    width: 100px;
+    min-height: 100px;
+    padding-left: 45px;
+    padding-top: 35px;
+    margin-left: 200px;
+    margin-top: -100px;
+    box-shadow: #4b4b4b 15px 15px 4px 0px;
+}
+.target5{
+    box-sizing: border-box;
+    background: orange;
+    border: 5px;
+    border-radius: 5px;
+    width: 100px;
+    min-height: 100px;
+    padding-left: 45px;
+    padding-top: 35px;
+    margin-left: 400px;
+    margin-top: -100px;
+    box-shadow: #989797 15px 15px 5px 3px;
+}
