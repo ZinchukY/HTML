@@ -1,0 +1,37 @@
+body{
+
+}
+.target{
+    background: rgba(131, 0, 0, 0.85);
+    color: white;
+    width: 700px;
+    padding-left: 770px;
+}
+.target1{
+    margin-right: -60px;
+    background: #bebbbb;
+    min-height: 60px;
+    padding-top: 20px;
+}
+.target2{
+    background: cornflowerblue;
+    min-height: 100px;
+    margin-top: -16px;
+    margin-right: -60px;
+    padding-top: 50px;
+}
+.target3{
+    background: rgba(62, 171, 62, 0.79);
+    box-sizing: border-box;
+    min-height: 250px;
+    width: 250px;
+    margin-top: -16px;
+}
+.target4{
+    box-sizing: border-box;
+    min-height: 250px;
+    width: 250px;
+    margin-top: -16px;
+    background: #8987ac;
+    border-radius: 25px;
+}
