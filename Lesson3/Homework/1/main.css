@@ -1,0 +1,43 @@
+.container {
+    background: #f8f8f8;
+    margin: auto;
+    display: flex;
+    width: 530px;
+    height: 335px;
+    flex-wrap: wrap;
+    border: 5px solid #acacac;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.A {
+    background: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+.B {
+    background: #d9d9d9;
+    width: 390px;
+    height: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 90px;
+    margin-right: 5px;
+}
+
+.C {
+    background: #d9d9d9;
+    width: 100px;
+    height: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 90px;
+    margin-left: 5px;
+}
