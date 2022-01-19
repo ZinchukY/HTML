@@ -1,0 +1,41 @@
+.bg-light-blue-cntr{
+    color: white;
+    background: #246abc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg-dark-blue-cntr{
+    color: white;
+    background: #18467b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+.clm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.big{
+    height: 380px;
+    width: 220px;
+}
+
+.h200{
+    height: 200px;
+}
+.h150{
+    height: 170px;
+}
+.w100{
+    width: 140px;
+}
+.w450{
+    width: 460px;
+}

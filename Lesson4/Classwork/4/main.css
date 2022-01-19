@@ -1,0 +1,37 @@
+.clm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+}
+.cntr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lm{
+    color: white;
+    background: #56c3b7;
+    width: 150px;
+    height: 50px;
+}
+.fas{
+    font-size: 35px;
+    color: #9a9a9a;
+}
+h2{
+    color: #bc7135;
+}
+.brd{
+    border: 1px solid #9a9a9a;
+    border-radius: 2%;
+    box-sizing: border-box;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
