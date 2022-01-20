@@ -1,0 +1,32 @@
+.bg-light-blue-w520{
+    background: #246abc;
+    width: 520px;
+}
+.dark-blue-box{
+    background: #18467b;
+    width: 160px;
+}
+.cntr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+.clm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.h350{
+    height: 350px;
+}
+.h200{
+    height: 200px;
+}
+.clr{
+    color: white;
+}

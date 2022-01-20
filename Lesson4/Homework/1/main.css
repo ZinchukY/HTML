@@ -1,0 +1,32 @@
+.bg-cntr{
+    background: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.clm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.h100{
+    height: 100px;
+}
+.h300{
+    height: 300px;
+}
+.w500{
+    width: 500px;
+}
+.w390{
+    width: 390px;
+}
+.w100{
+    width: 100px;
+}
+

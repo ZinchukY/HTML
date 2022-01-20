@@ -1,0 +1,41 @@
+.clr-cntr{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+}
+.clm{
+    display: flex;
+    flex-direction: column;
+}
+.w400{
+    width: 400px;
+}
+.h50{
+    height: 50px;
+}
+.h300{
+    height: 300px;
+}
+.main{
+    width: 300px;
+    background: #18a3c5;
+}
+.bg-nav{
+    background: #144c79;
+}
+.aside{
+    width: 100px;
+    background: #5376ae;
+}
+.header{
+    background: #0e66a8;
+    height: 70px;
+}
+.bg-ftr{
+    background: #7dcce3;
+}

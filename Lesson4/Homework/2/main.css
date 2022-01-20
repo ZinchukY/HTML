@@ -1,0 +1,40 @@
+.light-blue-box{
+    background: #a0e2ff;
+    width: 368px;
+    height: 244px;
+}
+.w500{
+    width: 500px;
+}
+.h100{
+    height: 100px;
+}
+.menu{
+    background: #ffb8ff;
+    height: 510px;
+    width: 110px;
+}
+.cntr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+.brd{
+    border: 1px solid black;
+}
+.bg-hdr{
+    background: #e6f7b1;
+}
+.bg-ftr{
+    background: #ffffca;
+}
