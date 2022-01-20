@@ -24,8 +24,8 @@
     background: #122d40;
 
 }
-.brd-rd10{
-    border-radius: 10%;
+.brd-rd15{
+    border-radius: 15%;
 }
 #head{
     height: 350px;
@@ -53,16 +53,9 @@
 .w75{
     width: 75px;
 }
-.w1400{
-    width: 1400px;
-}
-.rwgp15{
+.clmgp50{
     display: flex;
-    column-gap: 15px;
-}
-.clmgp15{
-    display: flex;
-    column-gap: 15px;
+    column-gap: 50px;
 }
 .brd-light-blue{
     border: 3px solid #3cc6ea;
@@ -75,4 +68,11 @@
 }
 .clmgp5{
     column-gap: 15px;
+}
+#brd{
+    box-sizing: border-box;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
