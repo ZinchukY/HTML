@@ -1,0 +1,165 @@
+.cntr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clm{
+    display: flex;
+    flex-direction: column;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+}
+.rwgp15{
+    display: flex;
+    row-gap: 15px;
+}
+.bg-gray{
+    background: #ced8e1;
+}
+.brd-gray{
+    box-sizing: border-box;
+    border: 2px solid #ced8e1;
+}
+.bg-dark-blue{
+    background: #122d40;
+
+}
+.brd-rd15{
+    border-radius: 15%;
+}
+#head{
+    height: 350px;
+    width: 1000px;
+    box-sizing: border-box;
+    border-radius: 5%;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.w200{
+    width: 200px;
+}
+.h150{
+    height: 150px;
+}
+.h6{
+    height: 6px;
+}
+.w40{
+    width: 40px;
+}
+.w50{
+    width: 50px;
+}
+.w75{
+    width: 75px;
+}
+.w125{
+    width: 125px;
+}
+.w100{
+    width: 100px;
+}
+.w150{
+    width: 150px;
+}
+.w250{
+    width: 250px;
+}
+.clmgp50{
+    display: flex;
+    column-gap: 50px;
+}
+.brd-light-blue{
+    border: 3px solid #3cc6ea;
+}
+.bg-light-blue{
+    background: #3cc6ea;
+}
+.h385{
+    height: 385px;
+}
+.brd-rd{
+    border-radius: 50%;
+}
+.clmgp5{
+    column-gap: 15px;
+}
+#brd{
+    box-sizing: border-box;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.h50{
+    height: 50px;
+}
+.h125{
+    height: 125px;
+}
+.h10{
+    height: 10px;
+}
+#top{
+    box-sizing: border-box;
+    padding-left: 1000px;
+    padding-top: 20px;
+}
+#top2{
+    height: 75px;
+    margin-left: 200px;
+    margin-top: 25px;
+}
+#top2_right{
+    margin-left: 550px;
+    margin-top: 59px;
+}
+#top3{
+    margin-top: 50px;
+}
+.w10{
+    width: 10px;
+}
+.clmgp170{
+    display: flex;
+    column-gap: 170px;
+}
+.h20{
+    height: 20px;
+}
+.w20{
+    width: 20px;
+}
+.clmgp90{
+    display: flex;
+    column-gap: 90px;
+}
+.h350{
+    height: 350px;
+}
+.rwgp50{
+    display: flex;
+    row-gap: 50px;
+}
+.rwgp50{
+    display: flex;
+    row-gap: 50px;
+}
+.rwgp150{
+    display: flex;
+    row-gap: 150px;
+}
+.w30{
+    width: 30px;
+}
+.w500{
+    width: 500px;
+}
+.button{
+    margin-top: 60px;
+}
+.h40{
+    height: 40px;
+}
