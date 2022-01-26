@@ -1,0 +1,49 @@
+.bg-cntr{
+    background: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rw{
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+}
+.clm{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.a{
+    height: 100px;
+    width: 505px;
+}
+.h300{
+    height: 300px;
+}
+.b{
+    width: 390px;
+}
+.c{
+    width: 100px;
+}
+
+@media screen and (max-width: 992px)  {
+    #rw {
+        display: flex;
+        flex-direction: column;
+        row-gap: 15px;
+    }
+    .brd-rd15{
+        border-radius: 15%;
+    }
+    .md-wd500{
+        width: 500px;
+    }
+    .b{
+        height: 500px;
+    }
+    .c{
+        height: 100px;
+    }
+}
