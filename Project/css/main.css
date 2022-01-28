@@ -202,6 +202,144 @@
     row-gap: 20px;
     margin-bottom: 219px;
 }
-.contextual_microsurveys{
+.cm{
 
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 23px;
+}
+.cm_img{
+    background-color: #be79f0;
+}
+.line{
+    width: 7px;
+    height: 1px;
+    background: #0B2330;
+    border-radius: 10%;
+}
+.indside_icon{
+    row-gap: 3px;
+    position: absolute;
+    margin-bottom: 4px;
+}
+.w440{
+    width: 440px;
+}
+.hwsprh_content{
+    margin-top: 29px;
+    margin-bottom: 36px;
+}
+.vq_img{
+    background-color: #52cebd;
+    margin-top: 140px;
+}
+.cam{
+    justify-content: center;
+    box-sizing: border-box;
+    padding-top: 12px;
+}
+.ct_img {
+    background-color: #fea02a;
+    margin-top: 140px;
+}
+.testing_img{
+    position: absolute;
+    align-items: center;
+    padding-bottom: 3px;
+}
+.t1{
+    margin-top: 2px;
+}
+.t2{
+    margin-top: -5px;
+}
+.t3{
+    margin-left: 7px;
+}
+.t4{
+    margin-left: -7px;
+}
+.txt_12_16{
+    font-size: 12px;
+    line-height: 16px;
+    color: #61757E;
+}
+.clmgp263{
+    column-gap: 263px;
+}
+.rwgp100{
+    row-gap: 100px;
+}
+.ss_btn{
+    height: 23px;
+    padding: 5px 16px 6px 16px;
+    border: 0;
+    background-color: #e7eaeb;
+    border-radius: 5%;
+}
+.w230{
+    width: 230px;
+}
+.ct_btn{
+    color: #0B2330;
+    background-color: #fea02a;
+}
+.features{
+    width: 1440px;
+    height: 960px;
+    background-color: #f2ede7;
+    margin-top: 152px;
+}
+.features_wrapper{
+    box-sizing: border-box;
+    padding: 95px 122px 95px 122px;
+}
+.ftrs_hdr{
+    width: 1000px;
+    height: 128px;
+    margin-top: 10px;
+    margin-bottom: 120px;
+}
+.clmgp224{
+    column-gap: 224px;
+}
+.ftrs_line{
+    width: 100%;
+    height: 2px;
+    background-color: #C9316F;
+    margin-bottom: 31px;
+}
+.updown{
+    width: 595px;
+}
+.txt_24_32{
+    font-size: 24px;
+    line-height: 32px;
+}
+.Vector{
+    justify-content: end;
+    align-items: start;
+    width: 100%;
+}
+.bar_set{
+    width: 310px;
+    margin-bottom: 25px;
+}
+.rwgp35{
+    row-gap: 30px;
+}
+.ftrs_btn{
+    background-color: #f2ede7;
+    border: 0;
+}
+.ftrs_line_gray{
+    width: 100%;
+    height: 2px;
+    background-color: #C3CACD;;
+    margin: 22px 0 25px 0;
 }
