@@ -294,6 +294,7 @@
     height: 960px;
     background-color: #f2ede7;
     margin-top: 152px;
+    margin-bottom: 184px;
 }
 .features_wrapper{
     box-sizing: border-box;
@@ -302,8 +303,7 @@
 .ftrs_hdr{
     width: 1000px;
     height: 128px;
-    margin-top: 10px;
-    margin-bottom: 120px;
+    margin: 10px 0 120px 0;
 }
 .clmgp224{
     column-gap: 224px;
@@ -342,4 +342,105 @@
     height: 2px;
     background-color: #C3CACD;;
     margin: 22px 0 25px 0;
+}
+.integrations{
+    margin-left: 148px;
+}
+.w650{
+    width: 630px;
+}
+.integrations_btn{
+    width: 200px;
+    height: 54px;
+    background-color: #F9C600;
+    border: 0;
+    margin: 0 640px 0 0;
+}
+.txt_16_24{
+    font-size: 16px;
+    line-height: 24px;
+}
+.w600{
+    width: 600px;
+}
+.double_box{
+    width: 1376px;
+    margin: 240px 32px 0 32px;
+}
+.box_wrapper{
+    margin: 80px 0 0 116px;
+}
+.box1{
+    background-color: #F2EDE7;
+    border-radius: 10px 0 0 10px;
+    height: 584px;
+    width: 562px;
+}
+.w310{
+    width: 310px;
+}
+.double_box_btn{
+    width: 140px;
+    padding: 14px 29px 16px 29px;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid #0B2330;
+}
+.box2{
+    background: #F9C600;
+    border-radius: 0 10px 10px 0;
+    height: 584px;
+    width: 790px;
+}
+.DL{
+    justify-content: center;
+}
+.end{
+    background-color: #0d2532;
+    margin-top: 46px;
+    width: 1440px;
+}
+.end_top{
+    height: 420px;
+}
+.end_wrapper{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    box-sizing: border-box;
+    padding: 53px 0 95px 0;
+    margin: 0 32px 0 32px;
+}
+.end_line{
+    width: 1375px;
+    background-color: #375361;
+    height: 1px;
+    margin: 0 32px 0 32px;
+}
+.end_bottom{
+    height: 678px;
+    color: white;
+}
+.end_mrgn{
+    margin: 80px 0 220px 32px;
+}
+.end_clmn_mrgn{
+    margin-left: 268px;
+}
+.f_word_clr{
+    color: #f9c602;
+}
+.end_spring{
+}
+.rw_sprg2022{
+    margin-top: 69px;
+    height: 29px;
+    column-gap: 589px;
+}
+.end_logos{
+    width: 28px;
+    height: 28px;
+}
+.clr_gray{
+    color: #94A0A4;
 }
